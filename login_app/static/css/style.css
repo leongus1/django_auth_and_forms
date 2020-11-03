@@ -1,0 +1,12 @@
+#canvas {
+    text-align: left;
+    display: block;
+    width: 75%;
+    margin: 50px auto;
+    display: flex;
+}
+
+li{
+    font-style: italic;
+    font-size: 10px;
+}
